@@ -11,7 +11,8 @@ Bubble Sort is a simple sorting algorithm that repeatedly steps through the list
 ```php
 $array = [5, 3, 8, 4, 2];
 $array = bubbleSort($array);
-print_r($array); // Output: [2, 3, 4, 5, 8]
+print_r($array); // Output: [2, 3, 4, 5, 8];
+```
 
 #### Sorting Algorithms in PHP: Quick Sort and Selection Sort
 
@@ -32,5 +33,5 @@ Quick Sort is a highly efficient sorting algorithm that uses a divide-and-conque
 ```php
 $array = [5, 3, 8, 4, 2];
 $array = quickSort($array);
-print_r($array); // Output: [2, 3, 4, 5, 8]
-
+print_r($array); // Output: [2, 3, 4, 5, 8];
+```
